@@ -1,4 +1,3 @@
-version: '3'
 services:
     wordpress:
         container_name: wp
